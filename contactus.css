@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+home{
+    font-size: 20px;
+    /* margin-top: 20px; */
+}
+.phone{
+    font-size: 20px;
+    /* margin-top: 20px; */
+    margin-left: 30px;
+}
+.homee{
+    display:flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.homee p{
+    margin-left: 10px;
+}
+#id1{
+    margin-left: 500px;
+}
+.homee2{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.location{
+    /* margin-top: 20px; */
+    font-size: 20px;
+    margin-left: 20px;
+}
+.homee2 p{
+    margin-left: 10px;
+}
+.social{
+    margin-top: 20px;
+    margin-left: 7px;
+    /* border-radius: 50%; */
+}
+.face{
+    margin-left: 1000px;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    border: 1px solid black;
+    padding-top: 20px;
+    /* margin-left: 20px; */
+}
+
+.navbar .bar{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.nav1{
+    width: 10%;
+}
+
+.nav2{
+    width: 40%;
+}
+
+.nav3{
+    width: 50%;
+    padding-top: 18px;
+}
+
+.nav3 a{
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.nav3 a:hover{
+    color: blue;
+}
+
+.nav4{
+    width: 10%;
+    margin-top: 100px;
+    margin-right: 80px;
+}
+
+.navbar .glass{
+    font-size: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.banner{
+    background:  linear-gradient(rgba(9, 5, 54, 0.3), rgb(5, 4, 46, 0.7)),url("img/Computer-Guru-Training-Institute-Contactus-Banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no repeat;
+    background-color: rgba(0, 90, 172, 0.5);
+    background-attachment: fixed;
+    height: 500px;
+    /* margin-bottom: 150px; */
+}
+
+.banner h1{
+    font-size: 80px;
+    padding-top: 200px;
+    /* padding-left: 50px; */
+    /* margin-left: 20px; */
+    color: white;
+    /* margin-left: 70px; */
+    padding-left: 80px;
+}
+
+.banner a{
+    text-decoration: none;
+    color: white;
+    padding-left: 100px;
+}
+
+.banner p{
+    color: white;
+}
+
+.form{
+    width: 100%;
+    display: flex;
+    margin-top: 40px;
+    margin-left: 170px;
+    background-color: white;
+    border: 1px solid white;
+    margin-bottom: 100px;
+}
+
+
+.form1{
+    width: 50%;
+    /* margin-left: 250px; */
+    line-height: 33px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form1 h1{
+    margin-left: 30px;
+}
+
+.form1 p{
+    margin-left: 30px;
+}
+
+.form2{
+    width: 50%;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.antara{
+    /* padding-top: 20px; */
+    font-size: 30px;
+    color: blue;
+    margin-right: 10px;
+}
+
+.id1{
+    text-decoration: underline aqua;
+}
+
+input{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 7px;
+}
+
+.form2 button{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 170px;
+    background-color: aqua;
+    border: 1px solid rgb(1, 233, 233);
+}
+
+.footer{
+    width: 100%;
+    display: flex;
+    height: 500px;
+    background-color: black;
+}
+
+.footer1{
+    width: 30%;
+    color: grey;
+    margin-right: 20px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.footer1 p{
+    font-size: 20px;
+}
+.foot{
+    font-size: 20px;
+}
+
+.footer2{
+    width: 20%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.footer2 h1{
+    color: white;
+    font-size: 18px;
+}
+
+.footer2 table tr td a{
+    text-decoration: none;
+    /* padding: 20px; */
+    color: grey;
+    padding-top:30px ;
+}
+.footer3{
+    width: 20%;
+    /* color: grey; */
+}
+
+.footer3 h1{
+    margin-top: 40px;
+    color: white;
+}
+
+.footer p{
+    color: grey;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.footer4{
+    width: 30%;
+}
+
+.footer4 h1{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.footer4 a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    margin-top: -50px;
+}
+
+.footer4 p{
+    margin-left: 130px;
+    margin-top: -50px;
+    color: grey;
+}
+
+.footer5{
+    text-align: center;
+    height: 60px;
+    background-color: black;
+    color: grey;
+    border: 1px solid grey;
+    padding-top: 10px;
+}
+
